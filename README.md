@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Mohamed Ahmed
+### Junior MERN Stack Developer | Computer Science Graduate
 
-### Front-End Developer | Computer Science Graduate
+I'm a Computer Science graduate focused on building modern web applications using the MERN stack.
 
-I'm a Computer Science graduate passionate about building **modern, responsive, and user-friendly web applications**.
+I enjoy developing responsive interfaces with React and building RESTful APIs with Node.js, Express.js, and MongoDB. I'm continuously improving my skills through hands-on projects and real-world development.
 
-I enjoy turning ideas into clean and functional interfaces while continuously improving my skills in **JavaScript, TypeScript, React, and modern web development**.
-
-* 🎓 Computer Science Graduate
-* 💻 Front-End Developer
-* 🌱 Currently improving my skills in **TypeScript, React & Node.js**
-* 🚀 Interested in building real-world web applications
-* 📍 Egypt
-
+- 🎓 Computer Science Graduate
+- 💻 Junior MERN Stack Developer
+- ⚛️ React & TypeScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & REST APIs
+- 🚀 Building real-world projects and continuously learning
+- 📍 Egypt
 ---
 
 ## 🌐 Connect With Me
