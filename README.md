@@ -4,13 +4,14 @@ I'm a Computer Science graduate focused on building modern web applications usin
 
 I enjoy developing responsive interfaces with React and building RESTful APIs with Node.js, Express.js, and MongoDB. I'm continuously improving my skills through hands-on projects and real-world development.
 
-- 🎓 Computer Science Graduate
-- 💻 Junior MERN Stack Developer
-- ⚛️ React & TypeScript
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB & REST APIs
-- 🚀 Building real-world projects and continuously learning
-- 📍 Egypt
+* 🎓 Computer Science Graduate
+* 💻 Junior MERN Stack Developer
+* ⚛️ React & TypeScript
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB & REST APIs
+* 🚀 Building real-world projects and continuously learning
+* 📍 Egypt
+
 ---
 
 ## 🌐 Connect With Me
@@ -36,23 +37,23 @@ I enjoy developing responsive interfaces with React and building RESTful APIs wi
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ### Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
----
 
 ---
 
